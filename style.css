@@ -9,11 +9,11 @@
     justify-content: space-around;
 }
 .center{
-    border: 0.3vw solid blue;
+    border: 0.4vw solid blue;
 }
 .edge{
-    border: 0.3vw solid limegreen
+    border: 0.4vw solid limegreen
 }
 .miss{
-    border: 0.3vw solid red;
+    border: 0.4vw solid red;
 }
