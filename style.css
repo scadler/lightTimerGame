@@ -1,0 +1,19 @@
+.light{
+    border-radius: 100%;
+    height: 3vw;
+    width: 3vw;
+    background-color: black;
+}
+#row{
+    display: flex;
+    justify-content: space-around;
+}
+.center{
+    border: 0.3vw solid blue;
+}
+.edge{
+    border: 0.3vw solid limegreen
+}
+.miss{
+    border: 0.3vw solid red;
+}
